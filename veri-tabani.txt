@@ -1,0 +1,99 @@
+İlişkisel Veritabanı Mimarisi ve SQL Bilgisi:
+
+İlişkisel veritabanı tasarımı (tablo oluşturma, ilişkiler kurma)
+Normalizasyon ve veri bütünlüğü
+Temel SQL sorguları (SELECT, INSERT, UPDATE, DELETE)
+İleri düzey SQL konuları (JOIN işlemleri, alt sorgular, indeksleme)
+NoSQL Veritabanları ve Mimarileri:
+
+NoSQL veritabanı tipleri (belge tabanlı, sütun tabanlı, anahtar-değer tabanlı, graf tabanlı)
+NoSQL veritabanı kullanım senaryoları ve avantajları
+Önde gelen NoSQL veritabanları (MongoDB, Cassandra, Redis gibi)
+Veritabanı Yönetimi ve Optimizasyonu:
+
+Veritabanı performansı izleme ve ayarlama
+Veri yedekleme ve geri yükleme stratejileri
+Veritabanı güvenliği (erişim kontrolleri, yetkilendirme)
+Veri Yönetimi ve Veri Ambarı Çözümleri:
+
+Büyük veri yönetimi ve analizi
+Veri ambarı ve veri görselleştirme araçları
+Veri akışı ve ETL (Extract, Transform, Load) süreçleri
+Dağıtık Veritabanları ve Yüksek Kullanılabilirlik Mimarileri:
+
+Dağıtık veritabanı sistemleri (Sharding, Replication)
+Yüksek kullanılabilirlik ve dayanıklılık stratejileri (failover, clustering)
+Veritabanı Güvenliği ve Uygulama Entegrasyonu:
+
+SQL enjeksiyonu ve diğer güvenlik tehditleri
+Veritabanı ve uygulama güvenliği best practices
+Veritabanı sistemlerinin uygulama ile entegrasyonu (ORM kullanımı, veri erişim katmanları)
+Bulut Veritabanı Hizmetleri:
+
+AWS RDS, Azure SQL Database gibi bulut tabanlı veritabanı hizmetleri
+Bulut veritabanı yönetimi avantajları ve zorlukları
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Temel veri tabanı kavramları; veri, enformasyon, bilgi, veri tabanı
+Veri ambarı, veri martları, veri, metin ve web madenciliği
+Veri tabanı yönetim sistemleri ve sınıflandırılması
+Veri ve veri modelleri
+Veri tabanı elemanları; tablo ve alan özellikleri
+Veri tabanı elemanları; zorlayıcılar, anahtarlar, indeks, görünümler ve ilişkilendirme 
+Veri tabanı normalizasyonu 5N kuralı 
+Veri tabanı tasarımı 
+Örnek bir personel veri tabanı tasarımı 
+İlişkisel veri tabanı yönetim sistemleri ve veri madenciliği ilişkisi 
+SQL sorgulama dili hakkında bilgi
+MSSQL server kurulumu
+SQL server management studio kurulumu
+SQL server management studio tanıtımı
+SQL Kavramı
+Veri Tanımlama Dili (DDL)
+CREATE (Nesne Oluşturmak)
+ALTER (Nesnelerde Değişiklik Yapmak)
+DROP (Nesne Silmek)
+Yeni tablo ekleme
+Kolon Adı tanımlama
+Kolon data tipi belirleme
+Kolon allow nulls ifadesi kullanımı
+Anahtar (IDENTİTY) kolon
+Veri İşleme Dili (DML)
+Veri tabanına yeni veriler eklemek (insert)
+SELECT, FROM,
+WHERE, AS ifadeleri
+SUM Fonksiyonu
+AVG Fonksiyonu
+MAX Fonksiyonu
+MIN Fonksiyonu
+COUNT Fonksiyonu 
+SUBSTRİNG Fonksiyonu
+LEFT Fonksiyonu
+RİGHT Fonksiyonu
+UPPER Fonksiyonu
+SQL JOIN
+OUTER JOİN ( LEFT / RİGHT )
+GROUP BY, ORDER BY, TOP, HAVING ifadeleri
+Veriler üzerinde değişiklik (güncelleme) yapmak (update) 
+Veri tabanından veri silmek (delete)
+Tablolar arası ilişkiler
+Anahtar
+Yabancı anahtar (FORİGN KEY)
+SQL ile STORED PROCEDURED
+Extended stored procedure
+CLR stored procedure
+System stored procedure
+Kullanıcı tanımlı stored procedure
+Program ile yordam oluşturmak
+Kod ile yordam oluşturmak
+Stored procedure üzerinde değişiklik yapma
+SQL kodu ile değişiklik yapmak
+MsSQL Server üzerinden procedure silmek
+SQL kodu ile procedure silmek
+Declare ifadesi kullanımı
+EXEC ifadesi kullanımı
+IF ELSE ifadesi kullanımı
+BEGIN END, return ifadesi kullanımı
+Query ile değer alma
+Output ile değer gönderme
